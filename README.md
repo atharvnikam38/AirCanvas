@@ -2,7 +2,7 @@
 
 Drawing on Computers using Gestures
 
-This project is a part of Intelligent Computing Course (CSE-342) at IIT BHU, for the odd semester 2021-2022.
+This is our Mini Project for the even semester 2024-2025.
 
 ## Features
 
@@ -19,14 +19,13 @@ This project is a part of Intelligent Computing Course (CSE-342) at IIT BHU, for
 
 ## Team Members
 
--Abhinav Swaminathan – 2022.abhinav.swaminathan@ves.ac.in
--Ganesh Gupta – 2022.ganesh.gupta@ves.ac.in
--Nishant Khetal – 2022.nishant.khetal@ves.ac.in
--Atharv Nikam – 2022.atharv.nikam@ves.ac.in
+-  Abhinav Swaminathan – 2022.abhinav.swaminathan@ves.ac.in
+-  Ganesh Gupta – 2022.ganesh.gupta@ves.ac.in
+-  Nishant Khetal – 2022.nishant.khetal@ves.ac.in
+-  Atharv Nikam – 2022.atharv.nikam@ves.ac.in
 
-## Presentation and Demo Video
+## Presentation 
 
--   [Link](https://prezi.com/view/hX0hbolo46j5fIVIjRHF/) for the presentation of Air Canvas project.
+-   [Link](https://docs.google.com/presentation/d/1PwuICeIdDdxYaqfMYh9mfjOIafA_Q2dzFAznJzTH8gA/edit?usp=sharing) for the presentation of Air Canvas project.
 
--   [Link](https://www.youtube.com/watch?v=5xssoveB-74) for the demo video.
 
