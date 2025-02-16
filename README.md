@@ -19,10 +19,10 @@ This project is a part of Intelligent Computing Course (CSE-342) at IIT BHU, for
 
 ## Team Members
 
--   Shubhanshu Saxena (@shubhanshu02)
--   Diya Agrawal (@diya31ag)
--   Kenny Patel (@Kenny-08)
--   Siddhant Jain (@jainsid2305)
+Abhinav Swaminathan – 2022.abhinav.swaminathan@ves.ac.in
+Ganesh Gupta – 2022.ganesh.gupta@ves.ac.in
+Nishant Khetal – 2022.nishant.khetal@ves.ac.in
+Atharv Nikam – 2022.atharv.nikam@ves.ac.in
 
 ## Presentation and Demo Video
 
