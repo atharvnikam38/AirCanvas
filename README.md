@@ -30,4 +30,3 @@ Atharv Nikam – 2022.atharv.nikam@ves.ac.in
 
 -   [Link](https://www.youtube.com/watch?v=5xssoveB-74) for the demo video.
 
-[![Air Canvas Demo Video](https://img.youtube.com/vi/5xssoveB-74/0.jpg)]()
